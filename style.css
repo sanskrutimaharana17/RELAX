@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+body {
+    background-color: rgb(19, 18, 18);
+    background-image: "200w.webp";
+}
+
+.myimage {
+    color: rgb(248, 241, 241);
+    justify-content: center;
+}
+
+p {
+    color: rgb(241, 239, 236);
+    text-align: center;
+}
